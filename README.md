@@ -3,4 +3,5 @@
 Test project for the wisdom-framework
 
 Use
-  mvn wisdom:runto run
+  ``mvn wisdom:run``
+to run
