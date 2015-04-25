@@ -118,7 +118,7 @@
             <plugin>
                 <groupId>org.wisdom-framework</groupId>
                 <artifactId>wisdom-maven-plugin</artifactId>
-                <version>0.8.0</version>
+                <version>0.8.1-SNAPSHOT</version>
                 <extensions>true</extensions>
             </plugin>
 
