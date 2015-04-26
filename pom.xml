@@ -87,6 +87,13 @@
             <scope>test</scope>
         </dependency>
 
+		<dependency>
+            <groupId>org.wisdom-framework</groupId>
+            <artifactId>wisdom-executors</artifactId>
+            <version>0.8.1-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
+
         <!-- Additional applications -->
         <dependency>
             <groupId>org.wisdom-framework</groupId>
